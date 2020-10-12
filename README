@@ -1,2 +1,10 @@
-This is my prject created with Qt
+Projekt aplikacji przy wykorzystaniu QT
 
+Aplikacja do śledzenia przesyłek
+- można będzie wyszukiwać przesyłki po numerze
+- będzie można dodawać numery przesyłek do konta i sprawdzać ich status po włączeniu aplikacji
+- numery będą archiwizowane, będzie można sprawdzić aktualne jak i te, które zostały dostarczone
+
+
+Alternatywnie
+Aplikacja do wyszukiwania buildów do postaci w league of legends
